@@ -67,7 +67,7 @@ const containerFlip = document.querySelector(".flip-container")
              var question = document.querySelector(".flipchar") 
     
              winner.classList.remove('none')
-             winner2.classList.remove('none')
+            //  winner2.classList.remove('none')
 
              confetti.classList.remove('none')
 

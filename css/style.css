@@ -111,8 +111,8 @@ html {
 	transition: 0.6s;
 	-webkit-transform-style: preserve-3d;
 	position: relative;
-	width: calc(100% / 4 - 40px);
-	height: 300px;
+	width: calc(100% / 5 - 40px);
+	height: 250px;
 	border-radius: 100%;
 	margin: 10px;
 }
