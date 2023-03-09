@@ -22,7 +22,7 @@ var container2 = document.querySelector(".container-2")
 
 const containerFlip = document.querySelector(".flip-container")
 
-// bottone.addEventListener("click", function(){
+//  bottone.addEventListener("click", function(){
     
     setTimeout(() => {
         console.log("Delayed for 1 second.");
@@ -85,7 +85,7 @@ const containerFlip = document.querySelector(".flip-container")
         
       }, "11000")
 
-//  });
+  // });
 
 
 

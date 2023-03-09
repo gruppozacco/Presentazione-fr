@@ -83,7 +83,7 @@ html {
 
 .flip-container {
 	/* -webkit-perspective: 1000; */
-	width: 100%;
+	width: 55%;
 	height: 100vh;
 	min-height: fit-content;
 	max-height: fit-content;
@@ -94,6 +94,11 @@ html {
 	align-items: center;
 	padding-top: 25px;
 	
+}
+
+.Scriptcontent {
+	display: flex;
+	justify-content: center;
 }
 
 .flip-container2 {
@@ -111,7 +116,7 @@ html {
 	transition: 0.6s;
 	-webkit-transform-style: preserve-3d;
 	position: relative;
-	width: calc(100% / 5 - 40px);
+	width: calc(100% / 3 - 40px);
 	height: 250px;
 	border-radius: 100%;
 	margin: 10px;
